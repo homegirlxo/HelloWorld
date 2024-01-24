@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="question_text">Text Goes Here</string>
+    <string name="true_button">Greeting</string>
+    <string name="false_button">Farewell</string>
+    <string name="false_answer">Good Bye World</string>
+    <string name="true_answer">Hello World</string>
+</resources>
